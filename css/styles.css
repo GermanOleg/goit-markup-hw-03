@@ -160,7 +160,7 @@ section {
 .header-address-menu-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0 24px 332px;
+  margin: 24px 0 24px 332px;
 }
 
 .header-address-menu-item {}
